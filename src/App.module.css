@@ -1,0 +1,29 @@
+.main {
+    background-color: #c4c2f0;
+    border: 1px solid;
+    width: 200px;
+    margin: 100px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.display {
+    background-color: #7e78f1;
+    border: 1px solid;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    padding: 5px;
+    text-align: center;
+}
+
+.buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button {
+    background-color: #7e78f1;
+}
