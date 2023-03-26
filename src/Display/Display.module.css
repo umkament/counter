@@ -1,0 +1,19 @@
+.maxValue {
+color: red;
+}
+
+.display {
+    background-color: #7e78f1;
+    border: 1px solid;
+    width: 150px;
+    margin: 0px 0px 15px 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+

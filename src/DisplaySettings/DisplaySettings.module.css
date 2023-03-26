@@ -1,0 +1,16 @@
+.smallBlock {
+    width: 280px;
+    margin: 0px 0px 10px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.input {
+    width: 50px;
+    background-color: #7e78f1;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
